@@ -1,14 +1,4 @@
-2- Array pair sum
-
-## Pasos
-
-1. Seleccionar el primer número del arreglo y sumarlo con los suiguientes para ver con cuál la suma da el número del primer parámetro
-
-2. Crear un array con el número seleccionado y el encontrado
-
-No se puede repetir
-No Puede ser un arreglo vacío
-No pueden ser números iguales
+# 2- Array pair sum
 
 ## Solución
 

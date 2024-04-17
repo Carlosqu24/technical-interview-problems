@@ -1,14 +1,4 @@
-2- Array pair sum
-
-## Steps
-
-1. Select the first number of the array and add it with the following ones to see which one the sum gives the number of the first parameter
-
-2. Create an array with the selected number and the one found
-
-cannot be repeated
-Cannot be an empty array
-They cannot be equal numbers
+# 2- Array pair sum
 
 ## Solution
 
